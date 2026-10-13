@@ -1,5 +1,1 @@
-{
-  "firestore": {
-    "rules": "firestore.rules"
-  }
-}
+{"firestore":{"rules":"firestore.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"maynghenhaconline","appId":"1:836522406657:android:34dcbccfd6df11ddc8a100","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"maynghenhaconline","configurations":{"android":"1:836522406657:android:34dcbccfd6df11ddc8a100","web":"1:836522406657:web:95711a88ca4c8b6cc8a100"}}}}}}

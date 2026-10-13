@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836522406657",
+    "project_id": "maynghenhaconline",
+    "storage_bucket": "maynghenhaconline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836522406657:android:34dcbccfd6df11ddc8a100",
+        "android_client_info": {
+          "package_name": "com.bai6.sonic_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSl40zGn7wMwIodFsMCuvFrrcipT1ZPeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
